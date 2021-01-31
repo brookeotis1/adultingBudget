@@ -20,7 +20,7 @@ Offline entries should be added to tracker.
 I Want to be able to track my withdrawals and deposits with or without a data/internet connection.
 
 ## Preview
-![Image of app](/assets/budgetPreview.jpg)
+![Image of app](public/assets/budgetPreview.jpg)
 
 ## Link
 https://adulting-budget.herokuapp.com/
